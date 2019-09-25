@@ -13,4 +13,4 @@ highlight default link trmComment Comment
 highlight default link trmNumbers Number
 "highlight trmOperators ctermfg=168
 "highlight trmComment ctermfg=183
-"highlight numbers ctermfg=109
+"highlight trmNumbers ctermfg=109
