@@ -7,7 +7,7 @@
 syntax keyword trmOperators case jump jumpb push1 goto label
 syntax region trmComment start=';' end='\n'
 syntax match trmNumbers ' \d'
-syntax match trmPushHashOp 'push\#'
+syntax match trmPushHashOp 'push\# '
 
 highlight default link trmOperators String
 highlight default link trmPushHashOp String
